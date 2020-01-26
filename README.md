@@ -5,6 +5,7 @@
 - automated testing.
 - jest testing framework.
 - supertest module.
+- figure it out
 
 ## Assignment
 
